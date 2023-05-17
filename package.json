@@ -1,0 +1,16 @@
+{
+  "name": "hardhat-network-manipulation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/antonpolenyaka/hardhat-network-manipulation.git",
+  "author": "Anton Polenyaka",
+  "license": "MIT",
+    "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.8",
+    "axios": "^1.4.0",
+    "hardhat": "^2.14.0"
+  }
+}
